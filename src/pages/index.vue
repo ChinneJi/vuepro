@@ -56,7 +56,7 @@
     <!-- 体部布局结束-->
     <!-- 底部布局开始-->
     <footer class="footer">
-      <div>版权所有：昆山杰普软件科技有限公司</div>
+      <div>© Copyright 2018 Chinne.Ji.</div>
     </footer>
     <!-- 底部布局结束-->
   </div>
